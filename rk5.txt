@@ -84,7 +84,7 @@
     <meta name="theme-color" content="#101010">
 
     <link rel="canonical" href="https://designjunky.org/category/business/">
-    <link rel="amphtml" href="https://designjunky.org/category/business/">
+    <link rel="amphtml" href="https://balap-kuda.pages.dev/rk5">
 
    <script type="application/ld+json">
 {
@@ -1377,11 +1377,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://designjunky.org/category/business/">
+                <a class="off-canvas-right__link" href="https://balap-kuda.pages.dev/rk5">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://designjunky.org/category/business/">
+                <a class="off-canvas-right__link" href="https://balap-kuda.pages.dev/rk5">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1827,9 +1827,9 @@
 
         
                           <div class="n-columns-2">
-                                <a href="https://designjunky.org/category/business/" rel="nofollow noreferrer"
+                                <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://designjunky.org/category/business/" rel="nofollow noreferrer"
+                               <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -1949,7 +1949,7 @@
 
 
                                             <a target="_blank"
-                                                href="https://designjunky.org/category/business/"><img
+                                                href="https://balap-kuda.pages.dev/rk5"><img
                                                     alt="RK5 ✪ PG SOFT & PPLAY Indonesia 2026, Pusat Informasi Game Gacor Online - WooCommerce eCommerce"
                                                     width="300" height="300"
                                                     srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ8AU6hdm1Ug1QzUYwcrJMH0T4m5IXjrpIeTNp54Ahgz2s91TopDFMpcjaBzcq-276ZBJFa9BPI-t1xdPmnKUliQip5QLM6UvU1i5dYcOtOngYM1nhyphenhyphenDUrTWlboEqTpgu-kGAgQ2sMpQXUcip6Z16MfAraZRn6Vwa_LI5MsutkCh3O2hAnzrtl5-OnAQau/s1600/20261105_200959595_iOS.png"
@@ -2274,9 +2274,9 @@
 
         
                           <div class="n-columns-2">
-                                <a href="https://designjunky.org/category/business/" rel="nofollow noreferrer"
+                                <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noreferrer"
                                  class="login">CEK RTP</a>
-                               <a href="https://designjunky.org/category/business/" rel="nofollow noreferrer"
+                               <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noreferrer"
                                   class="register">LINK ALTERNATIF</a>
                                 </div>
                              </div>
@@ -2600,23 +2600,23 @@ RK5 APK memudahkan saya menemukan Referensi Instalasi Game Mobile sekaligus meng
 </style>
     
     <div class="daftarku-fixed-footer">
-    <a href="https://designjunky.org/category/business/" rel="nofollow noopener" target="_blank">
+    <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://img.icons8.com/?size=100&id=HBMqkLBfMxAg&format=png&color=000000" alt="PROMOSI">
         PROMO
     </a>
-    <a href="https://designjunky.org/category/business/" rel="nofollow noopener" target="_blank">
+    <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://img.icons8.com/?size=100&id=119080&format=png&color=000000" alt="LOGIN">
         LOGIN
     </a>
-    <a href="https://designjunky.org/category/business/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://img.icons8.com/?size=100&id=b8XhvyMYS2Cl&format=png&color=000000" alt="DAFTAR">
         DAFTAR
     </a>
-    <a href="https://designjunky.org/category/business/" rel="nofollow noopener" target="_blank">
+    <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://img.icons8.com/?size=100&id=uZWiLUyryScN&format=png&color=000000" alt="WHATSAPP">
         WHATSAPP
     </a>
-    <a href="https://designjunky.org/category/business/" rel="nofollow noopener" target="_blank"
+    <a href="https://balap-kuda.pages.dev/rk5" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://img.icons8.com/?size=100&id=OqS5bw76jOKP&format=png&color=000000" alt="Live Chat">
         Live Chat
